@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DavidBalogun1010
+- 👋 Hi, I’m David
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning to become an expert as a Data Engineer
 - 💞️ I’m looking to collaborate on projects
