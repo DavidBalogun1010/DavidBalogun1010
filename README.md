@@ -26,7 +26,6 @@ When I'm not working with data, I enjoy Watching football matches,dancing,singin
 
 - **Project A:** E-commerce Sales Analysis Report
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
 ## 🌱 Currently Learning 
 
