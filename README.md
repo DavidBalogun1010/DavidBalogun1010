@@ -20,7 +20,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I'm not working with data, I enjoy Watching football matches,dancing,singing and mentoring others. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://davidbalogun1010.github.io/)
+### [🏆 Check Out My Full Portfolio Website][(https://davidbalogun1010.github.io/)](https://davidbalogun1010.github.io/dbalogun1010.github.io)
       
 ## 🔭 What I'm Currently Working On 
 
