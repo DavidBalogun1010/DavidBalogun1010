@@ -20,12 +20,12 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I'm not working with data, I enjoy Watching football matches,dancing,singing and mentoring others. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://davidbalogun1010.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** E-commerce Sales Analysis Report
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+- **Project B:** Fintechs Data Silos Analysis Pipeline
 
 ## 🌱 Currently Learning 
 
