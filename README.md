@@ -26,7 +26,7 @@ When I'm not working with data, I enjoy Watching football matches,dancing,singin
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** E-commerce Sales Analysis Report
+- **Project A:** Super Store Sales Analysis Report
 - **Project B:** Fintechs Data Silos Analysis 
 
 ## 🌱 Currently Learning 
